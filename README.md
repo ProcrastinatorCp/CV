@@ -11,7 +11,7 @@ I am skilled In dealing with problems in a resourceful manner and always enthusi
 
 #### Works Applications Singapore Pte. Ltd, Singapore (October 2015 – Present) 
 *Software Engineer* 
-* Full stack developer responsible for research, design and development of various authentication related features for next generation ERP based product.
+* Full-stack web developer responsible for research, design and development of various authentication related features for next generation ERP based product.
 * Interaction with different teams, testers and clients on a daily basis for smooth development of the product.
 * Designed and developed a web-application targeting Real-Estate Agencies as a starter project.
 
