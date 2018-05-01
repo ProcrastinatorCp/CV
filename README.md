@@ -31,7 +31,7 @@ I am skilled In dealing with problems in a resourceful manner and always enthusi
 - Represented university and secured 22 nd position in ACM - International Collegiate Programming Contest Amritapuri Multisite Regionals 2012. (Team : Panchjanya)
 
 #### Delhi Public School, Dhanbad, India (May 2007 - April 2009)
-*XII - (Percentage - 87.8%)*
+*Senior Secondary - (87.8%)*
 - Proficiency Award in Computer Science.
 - Subjects : Computer Science, Physics, Chemistry, Mathematics, English, Physical Education.
 
