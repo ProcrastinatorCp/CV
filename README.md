@@ -1,6 +1,6 @@
 ## Chandra Prakash
 [//]: # (ToDo : Add projects in tabular format, skills and Interests in future)
-[About](#about) | [Experience](#experience) | [Education](#education) | [Contact Me](#contact-me)
+[About](#about) | [Experience](#experience) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Contact Me](#contact-me)
 
 ## About
 I am a software engineer with 5.5 years of experience in the industry. I am currently working as full stack developer for a Japanese company which makes ERP products. I am used to working in a team and also take own initiative.
