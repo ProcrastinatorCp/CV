@@ -3,25 +3,50 @@
 [About](#about) | [Experience](#experience) | [Education](#education) | [Contact Me](#contact-me)
 
 ## About
-I am a software engineer with 3.5 years of experience in the industry. I am currently working as full stack developer for a Japanese company which makes ERP products. I am used to working in a team and also take own initiative. 
+I am a software engineer with 5.5 years of experience in the industry. I am currently working as full stack developer for a Japanese company which makes ERP products. I am used to working in a team and also take own initiative.
 I am skilled In dealing with problems in a resourceful manner and always enthusiastic to learn and undertake new challenges.
 
 
 ## Experience
 
-#### Works Applications Singapore Pte. Ltd, Singapore (October 2015 – Present) 
-*Software Engineer* 
-* Full-stack web developer responsible for research, design and development of various authentication related features for next generation ERP based product.
-* Interaction with different teams, testers and clients on a daily basis for smooth development of the product.
-* Designed and developed a web-application targeting Real-Estate Agencies as a starter project.
+#### Works Applications Singapore Pte. Ltd, Singapore (October 2015 – Present)
+*Senior Expert*
+* Works Applications, headquartered in Tokyo is the largest ERP software manufacturer in Japan.
+* Full-stack web developer responsible for research, design and development of  **Login & Authentication** modules​ for next generation ERP system.
+* Collaboration with multiple teams to investigate and fix existing bottleneck issues to improve performance and efficiency.
+* Support & Maintenance for 60+ commercial environments.
+* Guidance & Direction to new developers and interns.
 
 #### Samsung R&D Institute, Bangalore, India (July 2014 – August 2015)    
 *Software Engineer*  
-* Implemented and tested enhancement feature requests to enhance functionality of Bootloader used in Samsung devices.
+* SRI - Bangalore is the largest R&D center of the South Korean conglomerate outside its home country.
+* As a part of **Bootloader team**, I implemented various features to enhance security and functionality of bootloaders used in Samsung devices.
 
 #### Sankalp (Dec 2010 - March 2014)    
 *Volunteer / Teacher*  
-* "Sankalp-A Pledge To Change" is an NGO operating in tribal areas surrounding National Institute of Technology, Jamshedpur, India, and has been engaged in educational upliftment of tribal children. 
+* **Sankalp-A Pledge To Change** is an **NGO** operating in tribal areas surrounding National Institute of Technology, Jamshedpur, India, and has been *engaged in educational upliftment of tribal children*.
+
+## Skills  
+* 4+ years experience with **Java, Spring framework, C/C++, JavaScript, HTML** and **CSS**.
+* 3+ years experience with Database technologies such as **Cassandra, MySQL,** and **Redis**.
+* Experience with version control such as **Git, Perforce, Github** and **Gitlab**.
+* Familiar with Frameworks & Standards like **jQuery, Google Closure, JUnit, XML, AJAX, Maven, JSON, JWT, RESTful** and​ **Microservices**.
+* Working knowledge of Build/Test/Deploy pipeline in DevOps. ( **Jenkins, Docker, Kubernetes** )
+
+## Projects  
+#### SAML-2.0 compliant Identity Provider :
+* Instrumental in implementing an Identity Provider for **Single-Sign-On (SSO)** supporting *Web Browser SSO Profile*.
+
+#### Login & Authentication :
+* Designed & Implemented various Login and Authentication modules for a next generation ERP system.
+* Multi-factor Authentication ( **Password, 2-Step Verification, SSO** )
+* Session Management
+* Risk based authentication , IP Address Control, etc.
+
+#### Open Source Contributions :
+* Added **Java KeyStore support** for Key management in [onelogin/java-saml](https://github.com/onelogin/java-saml) (*a library for SSO/SAML-2.0 support in java applications*).
+* Added support for co-author commits in [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) (*simple and efficient way to access various statistics in a git repository*).
+* More at : [ProcrastinatorCp/Contributions](https://github.com/ProcrastinatorCp/Contributions)
 
 ## Education
 
